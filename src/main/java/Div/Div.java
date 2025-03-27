@@ -21,8 +21,8 @@ public static void clickElementByTextDiv(WebDriver driver, String divText) {
 	    try {
 	        // Prioritize efficient lookups
 	        String[] xpaths = {
-	            "//div[normalize-space()='" + divText + "']",  // Exact match (best)
 	            "//div[@id='" + divText + "']",              // ID match
+	            "//div[normalize-space()='" + divText + "']",  // Exact match (best)
 	            "//div[contains(text(),'" + divText + "')]", // Partial text match
 	            "//div[contains(@class,'" + divText + "')]"  // Class match (last resort)
 	        };

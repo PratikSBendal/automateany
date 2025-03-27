@@ -22,7 +22,8 @@ public static void clickElementByText(WebDriver driver, String linkText) {
 
 	try {
 		// Optimized element search order
-		String[] xpaths = { "//a[@id='" + linkText + "']", // ID match (fastest)
+		String[] xpaths = { 
+				"//a[@id='" + linkText + "']", // ID match (fastest)
 				"//a[normalize-space()='" + linkText + "']", // Exact text match
 				"//a[contains(@class,'" + linkText + "')]", // Class match
 				"//a[contains(text(),'" + linkText + "')]" // Partial text match (slowest)

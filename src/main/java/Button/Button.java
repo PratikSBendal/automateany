@@ -21,8 +21,9 @@ public class Button {
 
 		try {
 			// Prioritize efficient lookups
-			String[] xpaths = { "//button[normalize-space()='" + buttonText + "']", // Exact match (best)
+			String[] xpaths = { 
 					"//button[@id='" + buttonText + "']", // ID match
+					"//button[normalize-space()='" + buttonText + "']", // Exact match (best)
 					"//button[contains(text(),'" + buttonText + "')]", // Partial text match
 					"//button[contains(@class,'" + buttonText + "')]" // Class match (last resort)
 			};

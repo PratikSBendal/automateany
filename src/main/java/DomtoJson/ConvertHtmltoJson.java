@@ -154,7 +154,9 @@ public class ConvertHtmltoJson {
 	            ObjectNode textareaNode = objectMapper.createObjectNode();
 	            textareaNode.put("tag", "textarea");
 	            textareaNode.put("name", textarea.attr("name"));
+	            textareaNode.put("id", textarea.attr("id"));
 	            textareaNode.put("value", textarea.text().trim());
+	            textareaNode.put("passvalue", !textarea.attr("name").isEmpty()); // Clickable if name exists
 	            textareaArray.add(textareaNode);
 	        });
 	        rootNode.set("textareas", textareaArray);

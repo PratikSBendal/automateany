@@ -10,6 +10,7 @@ import Button.Button;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import InputBox.Input;
 import Link.Link;
+import TextArea.TextArea;
 import Div.Div;
 import DomtoJson.ConvertHtmltoJson;
 public class TestClass {
@@ -28,7 +29,7 @@ public class TestClass {
 	            driver = new ChromeDriver();
 	            driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 	            driver.manage().window().maximize();
-	            String url =  "https://test1.creditfair.in/";// Read URL from JSON
+	            String url =  "https://www.google.com/";// Read URL from JSON
 	            ConvertHtmltoJson.convertDomToJson(url);
 	            driver.get(url);
 //	            Div.processDiv(driver, "☰");
@@ -37,14 +38,15 @@ public class TestClass {
 //	            driver.navigate().back();
 //	            JavascriptExecutor js = (JavascriptExecutor) driver;
 //	            js.executeScript("window.scrollBy(0,10000)"); // Scroll down by 500 pixels
-	            Input.processInput(driver, "Enter your Mobile number","6565645656");
-	            Button.processButton(driver, "Send");
-//	            Link.processLink(driver, "Tutorials");	
+//	            Input.processInput(driver, "Enter your Mobile number","6565645656");
+//	            Button.processButton(driver, "Send");
+	            TextArea.processTextArea(driver, "APjFqb", "HelloWorld!");
+//	            Link.processLink(driver, "हिन्दी");	
 //	            Link.processLink(driver, "Tutorial");
-	        } catch (Exception e) {
+	        } catch (Exception e) {	
 	            e.printStackTrace();
 	        } finally {
-	            driver.quit();
+//	            driver.quit();
 	        }
 	        }
 }
