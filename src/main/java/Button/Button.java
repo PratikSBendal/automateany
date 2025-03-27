@@ -57,14 +57,19 @@ public class Button {
 		JsonNode rootNode = objectMapper.readTree(Paths.get(jsonFilePath).toFile());
 		try {
 			ArrayNode buttonArray = (ArrayNode) rootNode.get("buttons");
+		    boolean isClicked = false;
 			for (JsonNode button : buttonArray) {
 				if (button.get("clickable").asBoolean() && (button.path("id").asText().equals(buttonTextToClick)
 						|| button.path("name").asText().equals(buttonTextToClick)
 						|| button.path("class").asText().equals(buttonTextToClick)
 						|| button.path("id").asText().equals(buttonTextToClick))) {
 					clickElementByTextButton(driver, buttonTextToClick);
+		            isClicked = true;
 					break;
 				}
+			}
+			if (!isClicked) {
+			        System.out.println("No matching button found for: " + buttonTextToClick);
 			}
 		} catch (Exception e) {
 			System.out.println("Error processing buttons: " + e.getMessage());

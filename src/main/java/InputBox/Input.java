@@ -60,6 +60,7 @@ public class Input {
          JsonNode rootNode = objectMapper.readTree(Paths.get(jsonFilePath).toFile());
        try {
            ArrayNode inputArray = (ArrayNode) rootNode.get("inputs");
+		    boolean isClicked = false;
            for (JsonNode input : inputArray) {
 
                if (input.get("passvalue").asBoolean() && 
@@ -67,12 +68,15 @@ public class Input {
             	         input.path("placeholder").asText().equals(inputname) || 
             	         input.path("id").asText().equals(inputname) ||
             	         input.path("type").asText().equals(inputname))) {
-            	        
             	        passElementByInput(driver, inputname, inputvalue);
+    		            isClicked = true;
             	        break;
             	    }
-        	   
            }
+           if (!isClicked) {
+			   System.out.println("No matching input found for: " + inputname);
+		   }
+           
        } catch (Exception e) {
            System.out.println("Error processing buttons: " + e.getMessage());
        }

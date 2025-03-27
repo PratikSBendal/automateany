@@ -34,18 +34,17 @@ public class TestClass {
 //	            Div.processDiv(driver, "☰");
 //	            Link.clickElementByText(driver, "Tutorials");
 //	            Link.clickElementByText(driver, "Tutorial");
-
 //	            driver.navigate().back();
 //	            JavascriptExecutor js = (JavascriptExecutor) driver;
 //	            js.executeScript("window.scrollBy(0,10000)"); // Scroll down by 500 pixels
-//	            Input.processInput(driver, "Enter your Mobile number","6565645656");
-//	            Button.processButton(driver, "Send");
-//	            Link.processLink(driver, "Tutorials");
+	            Input.processInput(driver, "Enter your Mobile number","6565645656");
+	            Button.processButton(driver, "Send");
+//	            Link.processLink(driver, "Tutorials");	
 //	            Link.processLink(driver, "Tutorial");
 	        } catch (Exception e) {
 	            e.printStackTrace();
 	        } finally {
-//	            driver.quit();
+	            driver.quit();
 	        }
 	        }
 }

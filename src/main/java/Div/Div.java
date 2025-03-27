@@ -55,6 +55,7 @@ public static void  processDiv(WebDriver driver, String divTextToClick) throws I
       JsonNode rootNode = objectMapper.readTree(Paths.get(jsonFilePath).toFile());
     try {
         ArrayNode divArray = (ArrayNode) rootNode.get("div");
+        boolean isClicked = false;
         for (JsonNode div : divArray) {
             if (div.get("clickable").asBoolean() && (div.path("name").asText().equals(divTextToClick) || 
          		   div.path("id").asText().equals(divTextToClick) || 
@@ -62,8 +63,12 @@ public static void  processDiv(WebDriver driver, String divTextToClick) throws I
          		   div.path("text").asText().equals(divTextToClick)
          		   )) { 
                 clickElementByTextDiv(driver, divTextToClick);
+                isClicked = true;
                 break;
             }
+        }
+        if (!isClicked) {
+            System.out.println("No matching Div found for: " + divTextToClick);
         }
     } catch (Exception e) {
         System.out.println("Error processing buttons: " + e.getMessage());

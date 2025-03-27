@@ -57,15 +57,20 @@ public static void processLink(WebDriver driver, String linkTextToClick) throws 
      JsonNode rootNode = objectMapper.readTree(Paths.get(jsonFilePath).toFile());
    try {
        ArrayNode linkArray = (ArrayNode) rootNode.get("links");
+	    boolean isClicked = false;
        for (JsonNode link : linkArray) {
            if (link.get("clickable").asBoolean() && 
          		  (link.path("text").asText().equals(linkTextToClick) || 
          		  link.path("class").asText().equals(linkTextToClick) || 
          		  link.path("id").asText().equals(linkTextToClick))) { 
             clickElementByText(driver, linkTextToClick);
+            isClicked = true;
             break;
            }
        }
+       if (!isClicked) {
+		   System.out.println("No matching Link found for: " + linkTextToClick);
+	   }
    } catch (Exception e) {
        System.out.println("Error processing buttons: " + e.getMessage());
    }
