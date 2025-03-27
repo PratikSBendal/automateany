@@ -51,7 +51,7 @@ private static  WebElement findElementByXPath(WebDriver driver, WebDriverWait wa
 		return null; // Avoid throwing an exception; return null instead
 	}
 }
-public static void linkClick(WebDriver driver, String linkTextToClick) throws IOException {
+public static void processLink(WebDriver driver, String linkTextToClick) throws IOException {
 	 String jsonFilePath = "htmljson.json"; // Path to external JSON file
      ObjectMapper objectMapper = new ObjectMapper();
      JsonNode rootNode = objectMapper.readTree(Paths.get(jsonFilePath).toFile());

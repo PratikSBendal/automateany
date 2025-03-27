@@ -12,20 +12,17 @@ import com.fasterxml.jackson.databind.node.ArrayNode;
 import com.fasterxml.jackson.databind.node.ObjectNode;
 
 public class ConvertHtmltoJson {
-	   public static void main(String[] args) {
-	        try {
-	            String url = "https://test1.creditfair.in/";
+	public static void convertDomToJson(String url) {
+		 try {
 	            Document doc = Jsoup.connect(url).get(); // Fetch the page source
 
 	            // Convert DOM to JSON
 	            String jsonOutput = convertDomToJson(doc);
-	            System.out.println("Extracted JSON: \n" + jsonOutput);
+	            System.out.println("Extracted JSON Succesfully");
 	            saveJsonToFile(jsonOutput, "htmljson.json");
-
 	            // Parse JSON and perform click actions
 	            ObjectMapper objectMapper = new ObjectMapper();
 	            JsonNode rootNode = objectMapper.readTree(jsonOutput);
-
 	        } catch (Exception e) {
 	            e.printStackTrace();
 	        }
@@ -248,7 +245,30 @@ public class ConvertHtmltoJson {
 	        rootNode.set("scripts", scriptArray);
 
 	        return objectMapper.writerWithDefaultPrettyPrinter().writeValueAsString(rootNode);
+	   
+	}
+	   public static void main(String[] args) {
+	        try {
+	            String url = "https://test1.creditfair.in/";
+	            Document doc = Jsoup.connect(url).get(); // Fetch the page source
+
+	            // Convert DOM to JSON
+	            String jsonOutput = convertDomToJson(doc);
+	            System.out.println("Extracted JSON: \n" + jsonOutput);
+	            saveJsonToFile(jsonOutput, "htmljson.json");
+
+	            // Parse JSON and perform click actions
+	            ObjectMapper objectMapper = new ObjectMapper();
+	            JsonNode rootNode = objectMapper.readTree(jsonOutput);
+
+	        } catch (Exception e) {
+	            e.printStackTrace();
+	        }
 	    }
+
+	    /**
+	     * Converts HTML DOM to JSON.
+	     */
 	    private static void saveJsonToFile(String jsonOutput, String filePath) {
 	        try (FileWriter file = new FileWriter(new File(filePath))) {
 	            file.write(jsonOutput);

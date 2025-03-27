@@ -51,7 +51,7 @@ public class Button {
 		}
 	}
 
-	public static void processButtonByText(WebDriver driver, String buttonTextToClick) throws IOException {
+	public static void processButton(WebDriver driver, String buttonTextToClick) throws IOException {
 		String jsonFilePath = "htmljson.json"; 
 		ObjectMapper objectMapper = new ObjectMapper();
 		JsonNode rootNode = objectMapper.readTree(Paths.get(jsonFilePath).toFile());

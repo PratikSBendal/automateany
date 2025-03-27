@@ -10,7 +10,8 @@ import Button.Button;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import InputBox.Input;
 import Link.Link;
-
+import Div.Div;
+import DomtoJson.ConvertHtmltoJson;
 public class TestClass {
 	 public static WebDriver driver;
 
@@ -28,22 +29,23 @@ public class TestClass {
 	            driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 	            driver.manage().window().maximize();
 	            String url =  "https://test1.creditfair.in/";// Read URL from JSON
+	            ConvertHtmltoJson.convertDomToJson(url);
 	            driver.get(url);
-//	            Divop.processDivByText(driver, "☰");
-//	            LinkClicker.linkClick(driver, "Apply Now");
-//	            LinkClicker.linkClick(driver, "Tutorials");
-//	            LinkClicker.linkClick(driver, "Tutorial");
+//	            Div.processDiv(driver, "☰");
+//	            Link.clickElementByText(driver, "Tutorials");
+//	            Link.clickElementByText(driver, "Tutorial");
 
 //	            driver.navigate().back();
 //	            JavascriptExecutor js = (JavascriptExecutor) driver;
 //	            js.executeScript("window.scrollBy(0,10000)"); // Scroll down by 500 pixels
-	            Input.processInput(driver, "Enter your Mobile number","6565645656");
-	            Button.processButtonByText(driver, "Send");
-//	            Link.linkClick(driver, "Tutorials");
+//	            Input.processInput(driver, "Enter your Mobile number","6565645656");
+//	            Button.processButton(driver, "Send");
+//	            Link.processLink(driver, "Tutorials");
+//	            Link.processLink(driver, "Tutorial");
 	        } catch (Exception e) {
 	            e.printStackTrace();
 	        } finally {
-	            driver.quit();
+//	            driver.quit();
 	        }
 	        }
 }

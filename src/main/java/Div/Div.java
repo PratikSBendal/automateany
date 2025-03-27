@@ -49,7 +49,7 @@ private  static WebElement findClickableElement(WebDriver driver, WebDriverWait 
     }
     }
 
-public static void  processDivByText(WebDriver driver, String divTextToClick) throws IOException { 
+public static void  processDiv(WebDriver driver, String divTextToClick) throws IOException { 
  	  String jsonFilePath = "htmljson.json"; // Path to external JSON file
       ObjectMapper objectMapper = new ObjectMapper();
       JsonNode rootNode = objectMapper.readTree(Paths.get(jsonFilePath).toFile());
@@ -58,7 +58,8 @@ public static void  processDivByText(WebDriver driver, String divTextToClick) th
         for (JsonNode div : divArray) {
             if (div.get("clickable").asBoolean() && (div.path("name").asText().equals(divTextToClick) || 
          		   div.path("id").asText().equals(divTextToClick) || 
-         		   div.path("class").asText().equals(divTextToClick)
+         		   div.path("class").asText().equals(divTextToClick) ||
+         		   div.path("text").asText().equals(divTextToClick)
          		   )) { 
                 clickElementByTextDiv(driver, divTextToClick);
                 break;
