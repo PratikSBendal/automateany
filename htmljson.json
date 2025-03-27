@@ -1,0 +1,2306 @@
+{
+  "links" : [ {
+    "tag" : "a",
+    "text" : "",
+    "id" : "",
+    "class" : "standard-logo",
+    "href" : "/",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "",
+    "id" : "",
+    "class" : "",
+    "href" : "/",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "About Us",
+    "id" : "",
+    "class" : "",
+    "href" : "/about",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "Products",
+    "id" : "",
+    "class" : "submenu-toggle",
+    "href" : "#",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "Residential",
+    "id" : "",
+    "class" : "",
+    "href" : "/products/residential",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "MSME",
+    "id" : "",
+    "class" : "",
+    "href" : "/products/msme",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "Housing Society",
+    "id" : "",
+    "class" : "",
+    "href" : "/products/housing",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "For Businesses",
+    "id" : "",
+    "class" : "",
+    "href" : "/merchant",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "Contact Us",
+    "id" : "",
+    "class" : "",
+    "href" : "/contact",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "Blog",
+    "id" : "",
+    "class" : "",
+    "href" : "https://blog.creditfair.in/",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "Apply now",
+    "id" : "",
+    "class" : "button button-3d button-logo-shade button-medium nobottommargin login_but",
+    "href" : "https://solar.creditfair.in/onboarding",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "Apply Now",
+    "id" : "",
+    "class" : "button button-3d button-logo-shade button-large nobottommargin login_but animate__animated animate__fadeInUp animate__delay-2s",
+    "href" : "https://solar.creditfair.in/onboarding",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "Learn more",
+    "id" : "",
+    "class" : "button button-3d button-logo-shade button-small nobottommargin login_but",
+    "href" : "https://solar.creditfair.in",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "Learn more",
+    "id" : "",
+    "class" : "button button-3d button-logo-shade button-small nobottommargin login_but",
+    "href" : "https://solar.creditfair.in",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "",
+    "id" : "",
+    "class" : "",
+    "href" : "https://www.tatapower.com/",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "",
+    "id" : "",
+    "class" : "",
+    "href" : "https://www.kirloskarsolar.com/",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "",
+    "id" : "",
+    "class" : "",
+    "href" : "https://redingtongroup.com/",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "",
+    "id" : "",
+    "class" : "",
+    "href" : "https://www.luminousindia.com/category/solar/solar-solutions",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "",
+    "id" : "",
+    "class" : "",
+    "href" : "https://www.solarsquare.in/",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "",
+    "id" : "",
+    "class" : "",
+    "href" : "https://www.upsinverter.com/",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "",
+    "id" : "",
+    "class" : "",
+    "href" : "https://waaree.com/",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "",
+    "id" : "",
+    "class" : "",
+    "href" : "https://freyrenergy.com/",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "",
+    "id" : "",
+    "class" : "",
+    "href" : "https://www.itsmysun.com/",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "",
+    "id" : "",
+    "class" : "",
+    "href" : "https://www.livguard.com/",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "",
+    "id" : "",
+    "class" : "",
+    "href" : "https://www.jakson-green.com/",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "",
+    "id" : "",
+    "class" : "",
+    "href" : "https://amplussolar.com/",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "For Business",
+    "id" : "brands_buttons",
+    "class" : "button button-3d button-logo-shade button-small nobottommargin login_but",
+    "href" : "/merchant",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "For Customers",
+    "id" : "brands_buttons",
+    "class" : "button button-3d button-logo-shade button-small nobottommargin login_but",
+    "href" : "/customers",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "here.",
+    "id" : "",
+    "class" : "",
+    "href" : "https://test1.creditfair.in/privacy-policy",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "That's Fine",
+    "id" : "",
+    "class" : "cookieConsentOK",
+    "href" : "",
+    "clickable" : false
+  }, {
+    "tag" : "a",
+    "text" : "x",
+    "id" : "",
+    "class" : "cookieConsentCross",
+    "href" : "",
+    "clickable" : false
+  }, {
+    "tag" : "a",
+    "text" : "Rooftop Solar Loan",
+    "id" : "",
+    "class" : "",
+    "href" : "/products/residential/solar",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "Elective Healthcare Loan",
+    "id" : "",
+    "class" : "",
+    "href" : "/page/personal-loan-for-medical-emergency",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "IVF Treatment Loan",
+    "id" : "",
+    "class" : "",
+    "href" : "/page/personal-loan-for-ivf-treatment",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "Home Renovation Loan",
+    "id" : "",
+    "class" : "",
+    "href" : "/page/personal-loan-for-home-renovation",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "Education Loan",
+    "id" : "",
+    "class" : "",
+    "href" : "/page/personal-loan-for-education",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "Solar Loan in Mumbai",
+    "id" : "",
+    "class" : "",
+    "href" : "/products/residential/mumbai",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "Solar Loan in Lucknow",
+    "id" : "",
+    "class" : "",
+    "href" : "/products/residential/lucknow",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "Solar Loan in Chennai",
+    "id" : "",
+    "class" : "",
+    "href" : "/products/residential/chennai",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "Solar Loan in Pune",
+    "id" : "",
+    "class" : "",
+    "href" : "/products/residential/pune",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "Solar Loan in Ahmedabad",
+    "id" : "",
+    "class" : "",
+    "href" : "/products/residential/ahmedabad",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "Solar Loan in Bangalore",
+    "id" : "",
+    "class" : "",
+    "href" : "/products/residential/bangalore",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "Solar Loan in Delhi",
+    "id" : "",
+    "class" : "",
+    "href" : "/products/residential/delhi",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "Solar Loan in Hyderabad",
+    "id" : "",
+    "class" : "",
+    "href" : "/products/residential/hyderabad",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "",
+    "id" : "",
+    "class" : "",
+    "href" : "https://www.facebook.com/creditfairindia",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "",
+    "id" : "",
+    "class" : "",
+    "href" : "https://twitter.com/credit_fair",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "",
+    "id" : "",
+    "class" : "",
+    "href" : "https://www.linkedin.com/company/credit-fair",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "",
+    "id" : "",
+    "class" : "",
+    "href" : "https://www.instagram.com/credit_fair/",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "Phone : +91 8928769161",
+    "id" : "",
+    "class" : "",
+    "href" : "tel: 8928769161",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "Email : info@creditfair.in",
+    "id" : "",
+    "class" : "",
+    "href" : "mailto: info@creditfair.in",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "",
+    "id" : "",
+    "class" : "",
+    "href" : "https://play.google.com/store/apps/details?id=com.partner.creditfair&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "",
+    "id" : "",
+    "class" : "",
+    "href" : "https://play.google.com/store/apps/details?id=com.consumer.creditfair",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "Privacy Policy",
+    "id" : "",
+    "class" : "",
+    "href" : "https://test1.creditfair.in/privacy-policy",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "Terms of Use",
+    "id" : "",
+    "class" : "",
+    "href" : "https://test1.creditfair.in/terms-conditions",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "KYC Policy",
+    "id" : "",
+    "class" : "",
+    "href" : "https://test1.creditfair.in/kyc-policy",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "Fair Practice Code",
+    "id" : "",
+    "class" : "",
+    "href" : "https://test1.creditfair.in/fair-practice-policy",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "Outsourcing Policy",
+    "id" : "",
+    "class" : "",
+    "href" : "https://test1.creditfair.in/outsourcing-policy",
+    "clickable" : true
+  }, {
+    "tag" : "a",
+    "text" : "Sachet Portal",
+    "id" : "",
+    "class" : "",
+    "href" : "https://sachet.rbi.org.in/",
+    "clickable" : true
+  } ],
+  "buttons" : [ {
+    "tag" : "button",
+    "class" : "custom-send-button callback_request",
+    "name" : "Send",
+    "id" : "",
+    "clickable" : true
+  } ],
+  "inputs" : [ {
+    "tag" : "input",
+    "type" : "hidden",
+    "name" : "_token",
+    "class" : "",
+    "value" : "hNx4qBgfOK1qSDPITpoQCU4hlNOFgfbMCbM0INSn",
+    "id" : "",
+    "placeholder" : "",
+    "passvalue" : true
+  }, {
+    "tag" : "input",
+    "type" : "number",
+    "name" : "widget-callback-form",
+    "class" : "form-control phone num_field",
+    "value" : "",
+    "id" : "widget-callback-form",
+    "placeholder" : "Enter your Mobile number",
+    "passvalue" : true
+  } ],
+  "div" : [ {
+    "tag" : "div",
+    "class" : "custom_preloader css3-spinner",
+    "id" : "loader",
+    "name" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "div",
+    "class" : "css3-spinner-triangle-path",
+    "id" : "",
+    "name" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "div",
+    "class" : "",
+    "id" : "",
+    "name" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "div",
+    "class" : "",
+    "id" : "",
+    "name" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "div",
+    "class" : "",
+    "id" : "",
+    "name" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "div",
+    "class" : "",
+    "id" : "header-wrap",
+    "name" : "",
+    "text" : "☰ About Us Products Residential MSME Housing Society For Businesses Contact Us Blog Apply now",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "container clearfix",
+    "id" : "",
+    "name" : "",
+    "text" : "☰ About Us Products Residential MSME Housing Society For Businesses Contact Us Blog Apply now",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "menu-toggle",
+    "id" : "",
+    "name" : "",
+    "text" : "☰",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "",
+    "id" : "logo",
+    "name" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "div",
+    "class" : "",
+    "id" : "",
+    "name" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "div",
+    "class" : "",
+    "id" : "",
+    "name" : "",
+    "text" : "About Us",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "sub-menu-products",
+    "id" : "",
+    "name" : "",
+    "text" : "Products",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "",
+    "id" : "",
+    "name" : "",
+    "text" : "Residential",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "",
+    "id" : "",
+    "name" : "",
+    "text" : "MSME",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "",
+    "id" : "",
+    "name" : "",
+    "text" : "Housing Society",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "",
+    "id" : "",
+    "name" : "",
+    "text" : "For Businesses",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "",
+    "id" : "",
+    "name" : "",
+    "text" : "Contact Us",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "",
+    "id" : "",
+    "name" : "",
+    "text" : "Blog",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "get-started-container",
+    "id" : "",
+    "name" : "",
+    "text" : "Apply now",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "cta_btn_new",
+    "id" : "",
+    "name" : "",
+    "text" : "Apply now",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "",
+    "id" : "footer-new-home",
+    "name" : "",
+    "text" : "Empowering a Greener Future Har Ghar Solar Unlock affordable solar financing for your home, business, or community. Let's build a sustainable future together Apply Now / Our Products Residential Save big on bills, and go green with an easy rooftop solar loan solution for your home. Bharat MSME Power your business with solar and cut costs, reduce your footprint, and grow sustainably! Housing Society Cut costs, embrace sustainability, and build a greener community for the future! Why Choose Us Affordable EMI Options Enjoy the benefits of green & clean energy with easy and affordable EMI options, where your EMIs are less than Electricity Cost. Solar Insurance Protect your solar investment with comprehensive insurance coverage, ensuring peace of mind. 100% online process Experience the convenience of a completely online process from application to approval with no paperwork. Save Your Electricity cost Switch to Solar Today and generate your own electricity for the next 25 years. About Us PM Surya Ghar Registered We are officially registered as financial partners of the PM Surya Ghar initiative, supporting solar adoption across India. RBI Approved Trusted and regulated by the Reserve Bank of India, ensuring reliability and transparency in our services. Our Reach Urban to Rural We cover it all Our rooftop solar loan is accessible to a wide audience, ensuring a seamless financing experience wherever you are. Learn more Our Impact ,, CO2 Carbon Emissions Reduced , Trees Saved ,, kWh Energy Generated What is Residential Solar Financing Solar financing is a way to make solar energy installations affordable by providing financial support through loans or payment plans. This allows individuals, businesses, and institutions to install solar systems without the burden of upfront costs. Solar loan options, such as easy EMIs or no-cost EMI plans, help customers spread the cost of their solar system over time while enjoying the immediate benefits of lower electricity bills and contributing to a greener planet. Learn more ROOFTOP SOLAR Benefits Affordable Interest Rates Get competitive interest rates to make solar financing budget-friendly. Flexible Repayment Tenures Choose repayment tenures that suit your financial flexibility. Quick Loan Approvals Enjoy hassle-free and quick approvals to get started with your solar journey. No Hidden Charges Transparent financing with no hidden charges ensures peace of mind. TESTIMONIALS Satisfied Customers “Switching to solar was the best decision we made! Reliable power and big savings. Thank you for making it so easy!” Saurabh Bendal Business Owner “Flexible EMIs made solar affordable for us. Credit Fair turned our dream of going solar into reality!” Hansraj Shah Software Engineer “Exceptional service and seamless process! Highly recommend it to anyone looking for a hassle-free experience.” Roshan Vora Cafe Owner Brands that Trust Us Let's Get Started !! See why customers and businesses in over 80 Indian cities trust us. Try our services today! For Business For Customers",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "",
+    "id" : "",
+    "name" : "",
+    "text" : "Empowering a Greener Future Har Ghar Solar Unlock affordable solar financing for your home, business, or community. Let's build a sustainable future together Apply Now /",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "",
+    "id" : "",
+    "name" : "",
+    "text" : "Empowering a Greener Future Har Ghar Solar Unlock affordable solar financing for your home, business, or community. Let's build a sustainable future together Apply Now /",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "",
+    "id" : "",
+    "name" : "",
+    "text" : "Empowering a Greener Future Har Ghar Solar Unlock affordable solar financing for your home, business, or community. Let's build a sustainable future together Apply Now",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "swiper-slide dark swiper-slide-banner",
+    "id" : "slider_ivf",
+    "name" : "",
+    "text" : "Empowering a Greener Future Har Ghar Solar Unlock affordable solar financing for your home, business, or community. Let's build a sustainable future together Apply Now",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "container clearfix",
+    "id" : "",
+    "name" : "",
+    "text" : "Empowering a Greener Future Har Ghar Solar Unlock affordable solar financing for your home, business, or community. Let's build a sustainable future together Apply Now",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "",
+    "id" : "",
+    "name" : "",
+    "text" : "Empowering a Greener Future Har Ghar Solar Unlock affordable solar financing for your home, business, or community. Let's build a sustainable future together Apply Now",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "",
+    "id" : "",
+    "name" : "",
+    "text" : "Apply Now",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "cta_btn_new",
+    "id" : "",
+    "name" : "",
+    "text" : "Apply Now",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "slide-number",
+    "id" : "",
+    "name" : "",
+    "text" : "/",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "slide-number-current",
+    "id" : "",
+    "name" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "div",
+    "class" : "slide-number-total",
+    "id" : "",
+    "name" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "div",
+    "class" : "container clearfix",
+    "id" : "",
+    "name" : "",
+    "text" : "Our Products Residential Save big on bills, and go green with an easy rooftop solar loan solution for your home. Bharat MSME Power your business with solar and cut costs, reduce your footprint, and grow sustainably! Housing Society Cut costs, embrace sustainability, and build a greener community for the future!",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "content-wrap",
+    "id" : "",
+    "name" : "",
+    "text" : "Our Products Residential Save big on bills, and go green with an easy rooftop solar loan solution for your home. Bharat MSME Power your business with solar and cut costs, reduce your footprint, and grow sustainably! Housing Society Cut costs, embrace sustainability, and build a greener community for the future!",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "heading-block center",
+    "id" : "",
+    "name" : "",
+    "text" : "Our Products",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "row benefits_home",
+    "id" : "",
+    "name" : "",
+    "text" : "Residential Save big on bills, and go green with an easy rooftop solar loan solution for your home. Bharat MSME Power your business with solar and cut costs, reduce your footprint, and grow sustainably! Housing Society Cut costs, embrace sustainability, and build a greener community for the future!",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col-md-4 col-sm-12",
+    "id" : "cards_benefits",
+    "name" : "",
+    "text" : "Residential Save big on bills, and go green with an easy rooftop solar loan solution for your home.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "card",
+    "id" : "",
+    "name" : "",
+    "text" : "Residential Save big on bills, and go green with an easy rooftop solar loan solution for your home.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col-md-4 col-sm-12",
+    "id" : "cards_benefits",
+    "name" : "",
+    "text" : "Bharat MSME Power your business with solar and cut costs, reduce your footprint, and grow sustainably!",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "card",
+    "id" : "",
+    "name" : "",
+    "text" : "Bharat MSME Power your business with solar and cut costs, reduce your footprint, and grow sustainably!",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col-md-4 col-sm-12",
+    "id" : "cards_benefits",
+    "name" : "",
+    "text" : "Housing Society Cut costs, embrace sustainability, and build a greener community for the future!",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "card",
+    "id" : "",
+    "name" : "",
+    "text" : "Housing Society Cut costs, embrace sustainability, and build a greener community for the future!",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "content-wrap-md",
+    "id" : "",
+    "name" : "",
+    "text" : "Why Choose Us Affordable EMI Options Enjoy the benefits of green & clean energy with easy and affordable EMI options, where your EMIs are less than Electricity Cost. Solar Insurance Protect your solar investment with comprehensive insurance coverage, ensuring peace of mind. 100% online process Experience the convenience of a completely online process from application to approval with no paperwork. Save Your Electricity cost Switch to Solar Today and generate your own electricity for the next 25 years.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "container clearfix",
+    "id" : "",
+    "name" : "",
+    "text" : "Why Choose Us Affordable EMI Options Enjoy the benefits of green & clean energy with easy and affordable EMI options, where your EMIs are less than Electricity Cost. Solar Insurance Protect your solar investment with comprehensive insurance coverage, ensuring peace of mind. 100% online process Experience the convenience of a completely online process from application to approval with no paperwork. Save Your Electricity cost Switch to Solar Today and generate your own electricity for the next 25 years.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "new_pages",
+    "id" : "",
+    "name" : "",
+    "text" : "Why Choose Us",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "container row align-items-stretch clearfix",
+    "id" : "",
+    "name" : "",
+    "text" : "Affordable EMI Options Enjoy the benefits of green & clean energy with easy and affordable EMI options, where your EMIs are less than Electricity Cost. Solar Insurance Protect your solar investment with comprehensive insurance coverage, ensuring peace of mind. 100% online process Experience the convenience of a completely online process from application to approval with no paperwork. Save Your Electricity cost Switch to Solar Today and generate your own electricity for the next 25 years.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col-lg-6 nopadding",
+    "id" : "",
+    "name" : "",
+    "text" : "Affordable EMI Options Enjoy the benefits of green & clean energy with easy and affordable EMI options, where your EMIs are less than Electricity Cost. Solar Insurance Protect your solar investment with comprehensive insurance coverage, ensuring peace of mind. 100% online process Experience the convenience of a completely online process from application to approval with no paperwork. Save Your Electricity cost Switch to Solar Today and generate your own electricity for the next 25 years.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "row",
+    "id" : "",
+    "name" : "",
+    "text" : "Affordable EMI Options Enjoy the benefits of green & clean energy with easy and affordable EMI options, where your EMIs are less than Electricity Cost. Solar Insurance Protect your solar investment with comprehensive insurance coverage, ensuring peace of mind. 100% online process Experience the convenience of a completely online process from application to approval with no paperwork. Save Your Electricity cost Switch to Solar Today and generate your own electricity for the next 25 years.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col-sm-6 mb-2 mb-sm-2",
+    "id" : "",
+    "name" : "",
+    "text" : "Affordable EMI Options Enjoy the benefits of green & clean energy with easy and affordable EMI options, where your EMIs are less than Electricity Cost.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "benefits_card new_pages",
+    "id" : "",
+    "name" : "",
+    "text" : "Affordable EMI Options Enjoy the benefits of green & clean energy with easy and affordable EMI options, where your EMIs are less than Electricity Cost.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "card-body-benefits",
+    "id" : "",
+    "name" : "",
+    "text" : "Affordable EMI Options Enjoy the benefits of green & clean energy with easy and affordable EMI options, where your EMIs are less than Electricity Cost.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col-sm-6 mb-2 mb-sm-2",
+    "id" : "",
+    "name" : "",
+    "text" : "Solar Insurance Protect your solar investment with comprehensive insurance coverage, ensuring peace of mind.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "benefits_card new_pages",
+    "id" : "",
+    "name" : "",
+    "text" : "Solar Insurance Protect your solar investment with comprehensive insurance coverage, ensuring peace of mind.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "card-body-benefits",
+    "id" : "",
+    "name" : "",
+    "text" : "Solar Insurance Protect your solar investment with comprehensive insurance coverage, ensuring peace of mind.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col-sm-6 mb-2 mb-sm-2",
+    "id" : "",
+    "name" : "",
+    "text" : "100% online process Experience the convenience of a completely online process from application to approval with no paperwork.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "benefits_card new_pages",
+    "id" : "",
+    "name" : "",
+    "text" : "100% online process Experience the convenience of a completely online process from application to approval with no paperwork.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "card-body-benefits",
+    "id" : "",
+    "name" : "",
+    "text" : "100% online process Experience the convenience of a completely online process from application to approval with no paperwork.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col-sm-6 mb-2 mb-sm-2",
+    "id" : "",
+    "name" : "",
+    "text" : "Save Your Electricity cost Switch to Solar Today and generate your own electricity for the next 25 years.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "benefits_card new_pages",
+    "id" : "",
+    "name" : "",
+    "text" : "Save Your Electricity cost Switch to Solar Today and generate your own electricity for the next 25 years.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "card-body-benefits",
+    "id" : "",
+    "name" : "",
+    "text" : "Save Your Electricity cost Switch to Solar Today and generate your own electricity for the next 25 years.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col-lg-6",
+    "id" : "",
+    "name" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "div",
+    "class" : "nobottommargin col-padding",
+    "id" : "",
+    "name" : "",
+    "text" : "About Us PM Surya Ghar Registered We are officially registered as financial partners of the PM Surya Ghar initiative, supporting solar adoption across India. RBI Approved Trusted and regulated by the Reserve Bank of India, ensuring reliability and transparency in our services.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "container clearfix",
+    "id" : "",
+    "name" : "",
+    "text" : "About Us PM Surya Ghar Registered We are officially registered as financial partners of the PM Surya Ghar initiative, supporting solar adoption across India. RBI Approved Trusted and regulated by the Reserve Bank of India, ensuring reliability and transparency in our services.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "row align-items-center",
+    "id" : "",
+    "name" : "",
+    "text" : "About Us",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col-md-12",
+    "id" : "",
+    "name" : "",
+    "text" : "About Us",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "row",
+    "id" : "",
+    "name" : "",
+    "text" : "PM Surya Ghar Registered We are officially registered as financial partners of the PM Surya Ghar initiative, supporting solar adoption across India. RBI Approved Trusted and regulated by the Reserve Bank of India, ensuring reliability and transparency in our services.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col-md-5 text-center",
+    "id" : "",
+    "name" : "",
+    "text" : "PM Surya Ghar Registered We are officially registered as financial partners of the PM Surya Ghar initiative, supporting solar adoption across India.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col-md-5 text-center",
+    "id" : "",
+    "name" : "",
+    "text" : "RBI Approved Trusted and regulated by the Reserve Bank of India, ensuring reliability and transparency in our services.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "container clearfix",
+    "id" : "",
+    "name" : "",
+    "text" : "Our Reach Urban to Rural We cover it all Our rooftop solar loan is accessible to a wide audience, ensuring a seamless financing experience wherever you are. Learn more",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "content-wrap",
+    "id" : "",
+    "name" : "",
+    "text" : "Our Reach Urban to Rural We cover it all Our rooftop solar loan is accessible to a wide audience, ensuring a seamless financing experience wherever you are. Learn more",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "container-map",
+    "id" : "",
+    "name" : "",
+    "text" : "Our Reach Urban to Rural We cover it all Our rooftop solar loan is accessible to a wide audience, ensuring a seamless financing experience wherever you are. Learn more",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "text-content-map",
+    "id" : "",
+    "name" : "",
+    "text" : "Our Reach Urban to Rural We cover it all Our rooftop solar loan is accessible to a wide audience, ensuring a seamless financing experience wherever you are. Learn more",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "heading-block",
+    "id" : "",
+    "name" : "",
+    "text" : "Our Reach Urban to Rural We cover it all Our rooftop solar loan is accessible to a wide audience, ensuring a seamless financing experience wherever you are. Learn more",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "map-content",
+    "id" : "",
+    "name" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "div",
+    "class" : "",
+    "id" : "map",
+    "name" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "div",
+    "class" : "nobottommargin col-padding",
+    "id" : "",
+    "name" : "",
+    "text" : "Our Impact ,, CO2 Carbon Emissions Reduced , Trees Saved ,, kWh Energy Generated",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "container clearfix",
+    "id" : "",
+    "name" : "",
+    "text" : "Our Impact ,, CO2 Carbon Emissions Reduced , Trees Saved ,, kWh Energy Generated",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "row align-items-center",
+    "id" : "",
+    "name" : "",
+    "text" : "Our Impact",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col-md-12",
+    "id" : "",
+    "name" : "",
+    "text" : "Our Impact",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col-md-6",
+    "id" : "",
+    "name" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "div",
+    "class" : "row",
+    "id" : "",
+    "name" : "",
+    "text" : ",, CO2 Carbon Emissions Reduced , Trees Saved ,, kWh Energy Generated",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col-md-4 text-center brand-text-color",
+    "id" : "",
+    "name" : "",
+    "text" : ",, CO2 Carbon Emissions Reduced",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "counter counter-lined",
+    "id" : "",
+    "name" : "",
+    "text" : ",, CO2",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col-md-4 text-center brand-text-color",
+    "id" : "",
+    "name" : "",
+    "text" : ", Trees Saved",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "counter counter-lined",
+    "id" : "",
+    "name" : "",
+    "text" : ",",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col-md-4 text-center brand-text-color",
+    "id" : "",
+    "name" : "",
+    "text" : ",, kWh Energy Generated",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "counter counter-lined",
+    "id" : "",
+    "name" : "",
+    "text" : ",, kWh",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "content-wrap-md",
+    "id" : "",
+    "name" : "",
+    "text" : "What is Residential Solar Financing Solar financing is a way to make solar energy installations affordable by providing financial support through loans or payment plans. This allows individuals, businesses, and institutions to install solar systems without the burden of upfront costs. Solar loan options, such as easy EMIs or no-cost EMI plans, help customers spread the cost of their solar system over time while enjoying the immediate benefits of lower electricity bills and contributing to a greener planet. Learn more",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "container clearfix container-modified",
+    "id" : "",
+    "name" : "",
+    "text" : "What is Residential Solar Financing Solar financing is a way to make solar energy installations affordable by providing financial support through loans or payment plans. This allows individuals, businesses, and institutions to install solar systems without the burden of upfront costs. Solar loan options, such as easy EMIs or no-cost EMI plans, help customers spread the cost of their solar system over time while enjoying the immediate benefits of lower electricity bills and contributing to a greener planet. Learn more",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "container row align-items-stretch clearfix",
+    "id" : "",
+    "name" : "",
+    "text" : "What is Residential Solar Financing Solar financing is a way to make solar energy installations affordable by providing financial support through loans or payment plans. This allows individuals, businesses, and institutions to install solar systems without the burden of upfront costs. Solar loan options, such as easy EMIs or no-cost EMI plans, help customers spread the cost of their solar system over time while enjoying the immediate benefits of lower electricity bills and contributing to a greener planet. Learn more",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col-lg-6",
+    "id" : "",
+    "name" : "",
+    "text" : "What is Residential Solar Financing",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "new_pages",
+    "id" : "",
+    "name" : "",
+    "text" : "What is Residential Solar Financing",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col-lg-6 nopadding",
+    "id" : "",
+    "name" : "",
+    "text" : "Solar financing is a way to make solar energy installations affordable by providing financial support through loans or payment plans. This allows individuals, businesses, and institutions to install solar systems without the burden of upfront costs. Solar loan options, such as easy EMIs or no-cost EMI plans, help customers spread the cost of their solar system over time while enjoying the immediate benefits of lower electricity bills and contributing to a greener planet. Learn more",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "nopadding",
+    "id" : "",
+    "name" : "",
+    "text" : "Solar financing is a way to make solar energy installations affordable by providing financial support through loans or payment plans. This allows individuals, businesses, and institutions to install solar systems without the burden of upfront costs. Solar loan options, such as easy EMIs or no-cost EMI plans, help customers spread the cost of their solar system over time while enjoying the immediate benefits of lower electricity bills and contributing to a greener planet. Learn more",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "",
+    "id" : "",
+    "name" : "",
+    "text" : "Learn more",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "content-wrap-md",
+    "id" : "",
+    "name" : "",
+    "text" : "ROOFTOP SOLAR Benefits Affordable Interest Rates Get competitive interest rates to make solar financing budget-friendly. Flexible Repayment Tenures Choose repayment tenures that suit your financial flexibility. Quick Loan Approvals Enjoy hassle-free and quick approvals to get started with your solar journey. No Hidden Charges Transparent financing with no hidden charges ensures peace of mind.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "container clearfix",
+    "id" : "",
+    "name" : "",
+    "text" : "ROOFTOP SOLAR Benefits Affordable Interest Rates Get competitive interest rates to make solar financing budget-friendly. Flexible Repayment Tenures Choose repayment tenures that suit your financial flexibility. Quick Loan Approvals Enjoy hassle-free and quick approvals to get started with your solar journey. No Hidden Charges Transparent financing with no hidden charges ensures peace of mind.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "new_pages",
+    "id" : "",
+    "name" : "",
+    "text" : "ROOFTOP SOLAR Benefits",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "container row align-items-stretch clearfix",
+    "id" : "",
+    "name" : "",
+    "text" : "Affordable Interest Rates Get competitive interest rates to make solar financing budget-friendly. Flexible Repayment Tenures Choose repayment tenures that suit your financial flexibility. Quick Loan Approvals Enjoy hassle-free and quick approvals to get started with your solar journey. No Hidden Charges Transparent financing with no hidden charges ensures peace of mind.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col-lg-6 nopadding",
+    "id" : "",
+    "name" : "",
+    "text" : "Affordable Interest Rates Get competitive interest rates to make solar financing budget-friendly. Flexible Repayment Tenures Choose repayment tenures that suit your financial flexibility. Quick Loan Approvals Enjoy hassle-free and quick approvals to get started with your solar journey. No Hidden Charges Transparent financing with no hidden charges ensures peace of mind.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "row",
+    "id" : "",
+    "name" : "",
+    "text" : "Affordable Interest Rates Get competitive interest rates to make solar financing budget-friendly. Flexible Repayment Tenures Choose repayment tenures that suit your financial flexibility. Quick Loan Approvals Enjoy hassle-free and quick approvals to get started with your solar journey. No Hidden Charges Transparent financing with no hidden charges ensures peace of mind.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col-sm-6 mb-2 mb-sm-2",
+    "id" : "",
+    "name" : "",
+    "text" : "Affordable Interest Rates Get competitive interest rates to make solar financing budget-friendly.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "benefits_card new_pages",
+    "id" : "",
+    "name" : "",
+    "text" : "Affordable Interest Rates Get competitive interest rates to make solar financing budget-friendly.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "card-body-benefits",
+    "id" : "",
+    "name" : "",
+    "text" : "Affordable Interest Rates Get competitive interest rates to make solar financing budget-friendly.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col-sm-6 mb-2 mb-sm-2",
+    "id" : "",
+    "name" : "",
+    "text" : "Flexible Repayment Tenures Choose repayment tenures that suit your financial flexibility.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "benefits_card new_pages",
+    "id" : "",
+    "name" : "",
+    "text" : "Flexible Repayment Tenures Choose repayment tenures that suit your financial flexibility.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "card-body-benefits",
+    "id" : "",
+    "name" : "",
+    "text" : "Flexible Repayment Tenures Choose repayment tenures that suit your financial flexibility.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col-sm-6 mb-2 mb-sm-2",
+    "id" : "",
+    "name" : "",
+    "text" : "Quick Loan Approvals Enjoy hassle-free and quick approvals to get started with your solar journey.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "benefits_card new_pages",
+    "id" : "",
+    "name" : "",
+    "text" : "Quick Loan Approvals Enjoy hassle-free and quick approvals to get started with your solar journey.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "card-body-benefits",
+    "id" : "",
+    "name" : "",
+    "text" : "Quick Loan Approvals Enjoy hassle-free and quick approvals to get started with your solar journey.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col-sm-6 mb-2 mb-sm-2",
+    "id" : "",
+    "name" : "",
+    "text" : "No Hidden Charges Transparent financing with no hidden charges ensures peace of mind.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "benefits_card new_pages",
+    "id" : "",
+    "name" : "",
+    "text" : "No Hidden Charges Transparent financing with no hidden charges ensures peace of mind.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "card-body-benefits",
+    "id" : "",
+    "name" : "",
+    "text" : "No Hidden Charges Transparent financing with no hidden charges ensures peace of mind.",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col-lg-6",
+    "id" : "",
+    "name" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "div",
+    "class" : "nobottommargin col-padding",
+    "id" : "",
+    "name" : "",
+    "text" : "TESTIMONIALS Satisfied Customers “Switching to solar was the best decision we made! Reliable power and big savings. Thank you for making it so easy!” Saurabh Bendal Business Owner “Flexible EMIs made solar affordable for us. Credit Fair turned our dream of going solar into reality!” Hansraj Shah Software Engineer “Exceptional service and seamless process! Highly recommend it to anyone looking for a hassle-free experience.” Roshan Vora Cafe Owner",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "container clearfix container-modified",
+    "id" : "",
+    "name" : "",
+    "text" : "TESTIMONIALS Satisfied Customers “Switching to solar was the best decision we made! Reliable power and big savings. Thank you for making it so easy!” Saurabh Bendal Business Owner “Flexible EMIs made solar affordable for us. Credit Fair turned our dream of going solar into reality!” Hansraj Shah Software Engineer “Exceptional service and seamless process! Highly recommend it to anyone looking for a hassle-free experience.” Roshan Vora Cafe Owner",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "text-center mb-5",
+    "id" : "",
+    "name" : "",
+    "text" : "TESTIMONIALS Satisfied Customers",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "heading-block center",
+    "id" : "",
+    "name" : "",
+    "text" : "TESTIMONIALS Satisfied Customers",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "owl-carousel owl-theme",
+    "id" : "",
+    "name" : "",
+    "text" : "“Switching to solar was the best decision we made! Reliable power and big savings. Thank you for making it so easy!” Saurabh Bendal Business Owner “Flexible EMIs made solar affordable for us. Credit Fair turned our dream of going solar into reality!” Hansraj Shah Software Engineer “Exceptional service and seamless process! Highly recommend it to anyone looking for a hassle-free experience.” Roshan Vora Cafe Owner",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "item",
+    "id" : "",
+    "name" : "",
+    "text" : "“Switching to solar was the best decision we made! Reliable power and big savings. Thank you for making it so easy!” Saurabh Bendal Business Owner",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "card text-center p-4",
+    "id" : "",
+    "name" : "",
+    "text" : "“Switching to solar was the best decision we made! Reliable power and big savings. Thank you for making it so easy!” Saurabh Bendal Business Owner",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "item",
+    "id" : "",
+    "name" : "",
+    "text" : "“Flexible EMIs made solar affordable for us. Credit Fair turned our dream of going solar into reality!” Hansraj Shah Software Engineer",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "card text-center p-4",
+    "id" : "",
+    "name" : "",
+    "text" : "“Flexible EMIs made solar affordable for us. Credit Fair turned our dream of going solar into reality!” Hansraj Shah Software Engineer",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "item",
+    "id" : "",
+    "name" : "",
+    "text" : "“Exceptional service and seamless process! Highly recommend it to anyone looking for a hassle-free experience.” Roshan Vora Cafe Owner",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "card text-center p-4",
+    "id" : "",
+    "name" : "",
+    "text" : "“Exceptional service and seamless process! Highly recommend it to anyone looking for a hassle-free experience.” Roshan Vora Cafe Owner",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "container clearfix",
+    "id" : "",
+    "name" : "",
+    "text" : "Brands that Trust Us Let's Get Started !! See why customers and businesses in over 80 Indian cities trust us. Try our services today! For Business For Customers",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "content-wrap",
+    "id" : "",
+    "name" : "",
+    "text" : "Brands that Trust Us Let's Get Started !! See why customers and businesses in over 80 Indian cities trust us. Try our services today! For Business For Customers",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "heading-block",
+    "id" : "",
+    "name" : "",
+    "text" : "Brands that Trust Us",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col-md-8",
+    "id" : "",
+    "name" : "",
+    "text" : "Let's Get Started !! See why customers and businesses in over 80 Indian cities trust us. Try our services today! For Business For Customers",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "icon-angle-up",
+    "id" : "gotoTop",
+    "name" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "div",
+    "class" : "container",
+    "id" : "",
+    "name" : "",
+    "text" : "We use cookies Credit Fair uses cookies, pixel tags and similar technologies to enhance your experience on this website and the way it functions for you as a visitor. A cookie is a text file that is stored on your device. We use these text files for operation of our website, our own analytical purposes and to personalize content. If you object to cookies or want to delete any cookies that are already stored on your computer, you should follow the instructions for deleting existing cookies and disabling future cookies on your web browser or equivalent software. Remember, if you do disable or delete cookies, your experience on the website will be hampered. Read the complete privacy policy here. That's Fine x Loans Rooftop Solar Loan Elective Healthcare Loan IVF Treatment Loan Home Renovation Loan Education Loan Head Office 902, Tower A, Naman Midtown, Senapati Bapat Marg, Mumbai 400013 Solar Loan by City Solar Loan in Mumbai Solar Loan in Lucknow Solar Loan in Chennai Solar Loan in Pune Solar Loan in Ahmedabad Solar Loan in Bangalore Solar Loan in Delhi Solar Loan in Hyderabad Connect with Us Phone : +91 8928769161 Email : info@creditfair.in Download Merchant App: Request a callback Send Download Consumer App:",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "cookieConsentText",
+    "id" : "cookieConsent",
+    "name" : "",
+    "text" : "We use cookies Credit Fair uses cookies, pixel tags and similar technologies to enhance your experience on this website and the way it functions for you as a visitor. A cookie is a text file that is stored on your device. We use these text files for operation of our website, our own analytical purposes and to personalize content. If you object to cookies or want to delete any cookies that are already stored on your computer, you should follow the instructions for deleting existing cookies and disabling future cookies on your web browser or equivalent software. Remember, if you do disable or delete cookies, your experience on the website will be hampered. Read the complete privacy policy here. That's Fine x",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "cookieContainer",
+    "id" : "",
+    "name" : "",
+    "text" : "That's Fine x",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "footer-widgets-wrap clearfix",
+    "id" : "",
+    "name" : "",
+    "text" : "Loans Rooftop Solar Loan Elective Healthcare Loan IVF Treatment Loan Home Renovation Loan Education Loan Head Office 902, Tower A, Naman Midtown, Senapati Bapat Marg, Mumbai 400013 Solar Loan by City Solar Loan in Mumbai Solar Loan in Lucknow Solar Loan in Chennai Solar Loan in Pune Solar Loan in Ahmedabad Solar Loan in Bangalore Solar Loan in Delhi Solar Loan in Hyderabad Connect with Us Phone : +91 8928769161 Email : info@creditfair.in Download Merchant App: Request a callback Send Download Consumer App:",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col_two_third",
+    "id" : "",
+    "name" : "",
+    "text" : "Loans Rooftop Solar Loan Elective Healthcare Loan IVF Treatment Loan Home Renovation Loan Education Loan Head Office 902, Tower A, Naman Midtown, Senapati Bapat Marg, Mumbai 400013 Solar Loan by City Solar Loan in Mumbai Solar Loan in Lucknow Solar Loan in Chennai Solar Loan in Pune Solar Loan in Ahmedabad Solar Loan in Bangalore Solar Loan in Delhi Solar Loan in Hyderabad Connect with Us Phone : +91 8928769161 Email : info@creditfair.in Download Merchant App:",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col_one_third",
+    "id" : "",
+    "name" : "",
+    "text" : "Loans Rooftop Solar Loan Elective Healthcare Loan IVF Treatment Loan Home Renovation Loan Education Loan Head Office 902, Tower A, Naman Midtown, Senapati Bapat Marg, Mumbai 400013",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "widget clearfix",
+    "id" : "",
+    "name" : "",
+    "text" : "Loans Rooftop Solar Loan Elective Healthcare Loan IVF Treatment Loan Home Renovation Loan Education Loan",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "",
+    "id" : "footer-link",
+    "name" : "",
+    "text" : "Rooftop Solar Loan Elective Healthcare Loan IVF Treatment Loan Home Renovation Loan Education Loan",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "widget_clearfix-footer",
+    "id" : "",
+    "name" : "",
+    "text" : "Head Office 902, Tower A, Naman Midtown, Senapati Bapat Marg, Mumbai 400013",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col_one_third",
+    "id" : "",
+    "name" : "",
+    "text" : "Solar Loan by City Solar Loan in Mumbai Solar Loan in Lucknow Solar Loan in Chennai Solar Loan in Pune Solar Loan in Ahmedabad Solar Loan in Bangalore Solar Loan in Delhi Solar Loan in Hyderabad",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "widget clearfix",
+    "id" : "",
+    "name" : "",
+    "text" : "Solar Loan by City Solar Loan in Mumbai Solar Loan in Lucknow Solar Loan in Chennai Solar Loan in Pune Solar Loan in Ahmedabad Solar Loan in Bangalore Solar Loan in Delhi Solar Loan in Hyderabad",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "",
+    "id" : "footer-link",
+    "name" : "",
+    "text" : "Solar Loan in Mumbai Solar Loan in Lucknow Solar Loan in Chennai Solar Loan in Pune Solar Loan in Ahmedabad Solar Loan in Bangalore Solar Loan in Delhi Solar Loan in Hyderabad",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col_one_third col_last",
+    "id" : "",
+    "name" : "",
+    "text" : "Connect with Us Phone : +91 8928769161 Email : info@creditfair.in Download Merchant App:",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "widget_clearfix-footer",
+    "id" : "",
+    "name" : "",
+    "text" : "Connect with Us Phone : +91 8928769161 Email : info@creditfair.in Download Merchant App:",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "",
+    "id" : "",
+    "name" : "",
+    "text" : "Phone : +91 8928769161 Email : info@creditfair.in",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "social-icons",
+    "id" : "",
+    "name" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "div",
+    "class" : "widget_clearfix-footer",
+    "id" : "",
+    "name" : "",
+    "text" : "Phone : +91 8928769161 Email : info@creditfair.in",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "",
+    "id" : "",
+    "name" : "",
+    "text" : "Download Merchant App:",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "widget_clearfix-footer",
+    "id" : "",
+    "name" : "",
+    "text" : "Download Merchant App:",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "clearfix bottommargin-sm",
+    "id" : "",
+    "name" : "",
+    "text" : "Download Merchant App:",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "col_one_third col_last",
+    "id" : "",
+    "name" : "",
+    "text" : "Request a callback Send Download Consumer App:",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "widget clearfix",
+    "id" : "",
+    "name" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "div",
+    "class" : "row",
+    "id" : "",
+    "name" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "div",
+    "class" : "widget subscribe-widget clearfix",
+    "id" : "",
+    "name" : "",
+    "text" : "Request a callback Send",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "widget-subscribe-form-result",
+    "id" : "",
+    "name" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "div",
+    "class" : "custom-input-container",
+    "id" : "",
+    "name" : "",
+    "text" : "Send",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "icon-container",
+    "id" : "",
+    "name" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "div",
+    "class" : "validation",
+    "id" : "",
+    "name" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "div",
+    "class" : "",
+    "id" : "",
+    "name" : "",
+    "text" : "Download Consumer App:",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "widget_clearfix-footer",
+    "id" : "",
+    "name" : "",
+    "text" : "Download Consumer App:",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "clearfix bottommargin-sm",
+    "id" : "",
+    "name" : "",
+    "text" : "Download Consumer App:",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "",
+    "id" : "copyrights",
+    "name" : "",
+    "text" : "Copyrights © 2025 Credit Fair is the brand name of K. M. Global Credit Private Limited, an NBFC registered with the RBI. Privacy Policy | Terms of Use | KYC Policy | Fair Practice Code | Outsourcing Policy | Sachet Portal RBI registration number: N.13-02278 Disclaimer: a) “Reserve Bank of India neither accepts any responsibility nor guarantees the present position as to the financial soundness of the company or for the correctness of any of the statements or representations made or opinions expressed by the company and for discharge of any liability by the company.” b) “Neither there is any provision in law to keep, nor does the company keep any part of the deposits with the Reserve Bank of India and by issuing a Certificate of Registration to the company, the Reserve Bank of India, neither accepts any responsibility nor guarantees the payment of deposits to any depositor or any person who has lent any sum to the company.”",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "container clearfix",
+    "id" : "",
+    "name" : "",
+    "text" : "Copyrights © 2025 Credit Fair is the brand name of K. M. Global Credit Private Limited, an NBFC registered with the RBI. Privacy Policy | Terms of Use | KYC Policy | Fair Practice Code | Outsourcing Policy | Sachet Portal",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "",
+    "id" : "",
+    "name" : "",
+    "text" : "Copyrights © 2025 Credit Fair is the brand name of K. M. Global Credit Private Limited, an NBFC registered with the RBI. Privacy Policy | Terms of Use | KYC Policy | Fair Practice Code | Outsourcing Policy | Sachet Portal",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "copyright-links",
+    "id" : "",
+    "name" : "",
+    "text" : "Privacy Policy | Terms of Use | KYC Policy | Fair Practice Code | Outsourcing Policy | Sachet Portal",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "container clearfix",
+    "id" : "",
+    "name" : "",
+    "text" : "RBI registration number: N.13-02278 Disclaimer: a) “Reserve Bank of India neither accepts any responsibility nor guarantees the present position as to the financial soundness of the company or for the correctness of any of the statements or representations made or opinions expressed by the company and for discharge of any liability by the company.” b) “Neither there is any provision in law to keep, nor does the company keep any part of the deposits with the Reserve Bank of India and by issuing a Certificate of Registration to the company, the Reserve Bank of India, neither accepts any responsibility nor guarantees the payment of deposits to any depositor or any person who has lent any sum to the company.”",
+    "clickable" : true
+  }, {
+    "tag" : "div",
+    "class" : "",
+    "id" : "",
+    "name" : "",
+    "text" : "RBI registration number: N.13-02278 Disclaimer: a) “Reserve Bank of India neither accepts any responsibility nor guarantees the present position as to the financial soundness of the company or for the correctness of any of the statements or representations made or opinions expressed by the company and for discharge of any liability by the company.” b) “Neither there is any provision in law to keep, nor does the company keep any part of the deposits with the Reserve Bank of India and by issuing a Certificate of Registration to the company, the Reserve Bank of India, neither accepts any responsibility nor guarantees the payment of deposits to any depositor or any person who has lent any sum to the company.”",
+    "clickable" : true
+  } ],
+  "spans" : [ {
+    "tag" : "span",
+    "class" : "",
+    "id" : "",
+    "text" : "/",
+    "clickable" : true
+  }, {
+    "tag" : "span",
+    "class" : "",
+    "id" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "span",
+    "class" : "",
+    "id" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "span",
+    "class" : "",
+    "id" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "span",
+    "class" : "",
+    "id" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "span",
+    "class" : "",
+    "id" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "span",
+    "class" : "",
+    "id" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "span",
+    "class" : "",
+    "id" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "span",
+    "class" : "",
+    "id" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "span",
+    "class" : "",
+    "id" : "",
+    "text" : "Customers",
+    "clickable" : true
+  }, {
+    "tag" : "span",
+    "class" : "",
+    "id" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "span",
+    "class" : "",
+    "id" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "span",
+    "class" : "",
+    "id" : "",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "span",
+    "class" : "",
+    "id" : "",
+    "text" : "Trust Us",
+    "clickable" : true
+  }, {
+    "tag" : "span",
+    "class" : "",
+    "id" : "",
+    "text" : "Started !!",
+    "clickable" : true
+  }, {
+    "tag" : "span",
+    "class" : "message-box",
+    "id" : "",
+    "text" : "",
+    "clickable" : false
+  } ],
+  "paragraphs" : [ {
+    "tag" : "p",
+    "text" : "Empowering a Greener Future",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Har Ghar Solar",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Unlock affordable solar financing for your home, business, or community. Let's build a sustainable future together",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Our Products",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Residential",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Save big on bills, and go green with an easy rooftop solar loan solution for your home.",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Bharat MSME",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Power your business with solar and cut costs, reduce your footprint, and grow sustainably!",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Housing Society",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Cut costs, embrace sustainability, and build a greener community for the future!",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "",
+    "clickable" : false
+  }, {
+    "tag" : "p",
+    "text" : "Why Choose Us",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Affordable EMI Options",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Enjoy the benefits of green & clean energy with easy and affordable EMI options, where your EMIs are less than Electricity Cost.",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Solar Insurance",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Protect your solar investment with comprehensive insurance coverage, ensuring peace of mind.",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "100% online process",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Experience the convenience of a completely online process from application to approval with no paperwork.",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Save Your Electricity cost",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Switch to Solar Today and generate your own electricity for the next 25 years.",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "About Us",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "We are officially registered as financial partners of the PM Surya Ghar initiative, supporting solar adoption across India.",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Trusted and regulated by the Reserve Bank of India, ensuring reliability and transparency in our services.",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Our Reach",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Urban to Rural We cover it all",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Our rooftop solar loan is accessible to a wide audience, ensuring a seamless financing experience wherever you are.",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Our Impact",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "What is",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Residential",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Solar Financing",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Solar financing is a way to make solar energy installations affordable by providing financial support through loans or payment plans. This allows individuals, businesses, and institutions to install solar systems without the burden of upfront costs. Solar loan options, such as easy EMIs or no-cost EMI plans, help customers spread the cost of their solar system over time while enjoying the immediate benefits of lower electricity bills and contributing to a greener planet.",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "ROOFTOP SOLAR",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Benefits",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Affordable Interest Rates",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Get competitive interest rates to make solar financing budget-friendly.",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Flexible Repayment Tenures",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Choose repayment tenures that suit your financial flexibility.",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Quick Loan Approvals",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Enjoy hassle-free and quick approvals to get started with your solar journey.",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "No Hidden Charges",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Transparent financing with no hidden charges ensures peace of mind.",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "TESTIMONIALS",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Satisfied Customers",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "“Switching to solar was the best decision we made! Reliable power and big savings. Thank you for making it so easy!”",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Saurabh Bendal",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Business Owner",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "“Flexible EMIs made solar affordable for us. Credit Fair turned our dream of going solar into reality!”",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Hansraj Shah",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Software Engineer",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "“Exceptional service and seamless process! Highly recommend it to anyone looking for a hassle-free experience.”",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Roshan Vora",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Cafe Owner",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Brands that Trust Us",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Let's Get Started !!",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "See why customers and businesses in over 80 Indian cities trust us. Try our services today!",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Head Office",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "902, Tower A, Naman Midtown, Senapati Bapat Marg, Mumbai 400013",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Download Merchant App:",
+    "clickable" : true
+  }, {
+    "tag" : "p",
+    "text" : "Download Consumer App:",
+    "clickable" : true
+  } ],
+  "images" : [ {
+    "tag" : "img",
+    "src" : "https://www.facebook.com/tr?id=642398777180593&ev=PageView&noscript=1",
+    "alt" : ""
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/homepage_banners/cf_logo.png",
+    "alt" : "Credit Fair Logo"
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/homepage_banners/Residential.png",
+    "alt" : "Residential Societies"
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/homepage_banners/msme_2.png",
+    "alt" : "MSME"
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/homepage_banners/Housing.png",
+    "alt" : "Solar Channel Financing"
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/homepage_banners/wallet.png",
+    "alt" : ""
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/homepage_banners/insurance.png",
+    "alt" : ""
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/homepage_banners/booking.png",
+    "alt" : ""
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/homepage_banners/save-2.png",
+    "alt" : ""
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/homepage_banners/buildings.png",
+    "alt" : ""
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/homepage_banners/surya_ghar.png",
+    "alt" : ""
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/homepage_banners/rbi_approved.png",
+    "alt" : ""
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/homepage_icons/carbon-footprint.png",
+    "alt" : ""
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/homepage_icons/tree.png",
+    "alt" : ""
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/homepage_icons/energy.png",
+    "alt" : ""
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/homepage_banners/info.png",
+    "alt" : ""
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/homepage_banners/affordable.png",
+    "alt" : ""
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/homepage_banners/flexible_tenure.png",
+    "alt" : ""
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/homepage_banners/quick_loan_approval.png",
+    "alt" : ""
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/homepage_banners/no_hidden_charges.png",
+    "alt" : ""
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/homepage_banners/benefits_side.png",
+    "alt" : ""
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/logos/tata_solar.jpg",
+    "alt" : "Tata Power"
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/logos/Kirloskar.jpeg",
+    "alt" : "Kirloskar"
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/logos/redington.png",
+    "alt" : "Redington"
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/logos/Luminous.png",
+    "alt" : "Luminous"
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/logos/solar_square.png",
+    "alt" : "Solar Square"
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/logos/UTL-Solar-Final-Logo.png",
+    "alt" : "UTL Solar"
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/logos/Waaree-logo.png",
+    "alt" : "Waree Solar"
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/logos/freyr.png",
+    "alt" : "Freyr Energy"
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/logos/mysun.png",
+    "alt" : "Mysun"
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/logos/Livguard.png",
+    "alt" : "Livguard"
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/logos/jackson.png",
+    "alt" : "jackson Green"
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/logos/Amplus.jpeg",
+    "alt" : "Amplus Solar"
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/homepage_banners/facebook.png",
+    "alt" : ""
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/homepage_banners/X.png",
+    "alt" : ""
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/homepage_banners/linked_in.png",
+    "alt" : ""
+  }, {
+    "tag" : "img",
+    "src" : "/assets/front/img/homepage_banners/instagram.png",
+    "alt" : ""
+  }, {
+    "tag" : "img",
+    "src" : "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
+    "alt" : "Get it on Google Play"
+  }, {
+    "tag" : "img",
+    "src" : "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
+    "alt" : "Get it on Google Play"
+  } ],
+  "forms" : [ {
+    "tag" : "form",
+    "action" : "",
+    "method" : ""
+  } ],
+  "labels" : [ ],
+  "textareas" : [ ],
+  "selects" : [ ],
+  "tables" : [ ],
+  "lists" : [ {
+    "tag" : "ul",
+    "items" : [ {
+      "tag" : "li",
+      "text" : ""
+    }, {
+      "tag" : "li",
+      "text" : "About Us"
+    }, {
+      "tag" : "li",
+      "text" : "Products Residential MSME Housing Society"
+    }, {
+      "tag" : "li",
+      "text" : "Residential"
+    }, {
+      "tag" : "li",
+      "text" : "MSME"
+    }, {
+      "tag" : "li",
+      "text" : "Housing Society"
+    }, {
+      "tag" : "li",
+      "text" : "For Businesses"
+    }, {
+      "tag" : "li",
+      "text" : "Contact Us"
+    }, {
+      "tag" : "li",
+      "text" : "Blog"
+    } ]
+  }, {
+    "tag" : "ul",
+    "items" : [ {
+      "tag" : "li",
+      "text" : "Residential"
+    }, {
+      "tag" : "li",
+      "text" : "MSME"
+    }, {
+      "tag" : "li",
+      "text" : "Housing Society"
+    } ]
+  }, {
+    "tag" : "ul",
+    "items" : [ {
+      "tag" : "li",
+      "text" : ""
+    }, {
+      "tag" : "li",
+      "text" : ""
+    }, {
+      "tag" : "li",
+      "text" : ""
+    }, {
+      "tag" : "li",
+      "text" : ""
+    }, {
+      "tag" : "li",
+      "text" : ""
+    }, {
+      "tag" : "li",
+      "text" : ""
+    }, {
+      "tag" : "li",
+      "text" : ""
+    }, {
+      "tag" : "li",
+      "text" : ""
+    }, {
+      "tag" : "li",
+      "text" : ""
+    }, {
+      "tag" : "li",
+      "text" : ""
+    }, {
+      "tag" : "li",
+      "text" : ""
+    }, {
+      "tag" : "li",
+      "text" : ""
+    } ]
+  }, {
+    "tag" : "ul",
+    "items" : [ {
+      "tag" : "li",
+      "text" : "Rooftop Solar Loan"
+    }, {
+      "tag" : "li",
+      "text" : "Elective Healthcare Loan"
+    }, {
+      "tag" : "li",
+      "text" : "IVF Treatment Loan"
+    }, {
+      "tag" : "li",
+      "text" : "Home Renovation Loan"
+    }, {
+      "tag" : "li",
+      "text" : "Education Loan"
+    } ]
+  }, {
+    "tag" : "ul",
+    "items" : [ {
+      "tag" : "li",
+      "text" : "Solar Loan in Mumbai"
+    }, {
+      "tag" : "li",
+      "text" : "Solar Loan in Lucknow"
+    }, {
+      "tag" : "li",
+      "text" : "Solar Loan in Chennai"
+    }, {
+      "tag" : "li",
+      "text" : "Solar Loan in Pune"
+    }, {
+      "tag" : "li",
+      "text" : "Solar Loan in Ahmedabad"
+    }, {
+      "tag" : "li",
+      "text" : "Solar Loan in Bangalore"
+    }, {
+      "tag" : "li",
+      "text" : "Solar Loan in Delhi"
+    }, {
+      "tag" : "li",
+      "text" : "Solar Loan in Hyderabad"
+    } ]
+  } ],
+  "iframes" : [ ],
+  "scripts" : [ {
+    "tag" : "script",
+    "src" : ""
+  }, {
+    "tag" : "script",
+    "src" : ""
+  }, {
+    "tag" : "script",
+    "src" : "/HTML/js/jquery.js"
+  }, {
+    "tag" : "script",
+    "src" : "/HTML/js/plugins.js"
+  }, {
+    "tag" : "script",
+    "src" : "/HTML/js/bootstrap-datepicker.js"
+  }, {
+    "tag" : "script",
+    "src" : "/HTML/js/functions.js"
+  }, {
+    "tag" : "script",
+    "src" : ""
+  }, {
+    "tag" : "script",
+    "src" : "https://www.googletagmanager.com/gtag/js?id=G-P34F7SHRWX"
+  }, {
+    "tag" : "script",
+    "src" : ""
+  }, {
+    "tag" : "script",
+    "src" : "https://www.googletagmanager.com/gtag/js?id=UA-115567185-2"
+  }, {
+    "tag" : "script",
+    "src" : ""
+  }, {
+    "tag" : "script",
+    "src" : ""
+  }, {
+    "tag" : "script",
+    "src" : ""
+  }, {
+    "tag" : "script",
+    "src" : ""
+  }, {
+    "tag" : "script",
+    "src" : ""
+  }, {
+    "tag" : "script",
+    "src" : "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"
+  }, {
+    "tag" : "script",
+    "src" : "https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
+  }, {
+    "tag" : "script",
+    "src" : ""
+  }, {
+    "tag" : "script",
+    "src" : "/HTML/js/jquery.js"
+  }, {
+    "tag" : "script",
+    "src" : "/HTML/js/plugins.js"
+  }, {
+    "tag" : "script",
+    "src" : "/HTML/js/mapdata.js"
+  }, {
+    "tag" : "script",
+    "src" : "/HTML/js/countrymap.js"
+  }, {
+    "tag" : "script",
+    "src" : ""
+  }, {
+    "tag" : "script",
+    "src" : ""
+  } ]
+}
